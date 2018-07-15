@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.total {
+    padding-bottom: 31px;
+    border-bottom: 1px solid #374148;
+    font-family: 'Lato', sans-serif;
+}
+
+.total-header {
+    font-size: 24px;
+}
+
+.total-sub-header {
+    color: #72848b;
+    font-size: 15px;
+}

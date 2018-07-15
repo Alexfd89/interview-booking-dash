@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Assistant');
+
+.stats {
+    margin-top: 62px;
+    width: 390px;
+}
+
+.stats-header {
+  margin-bottom: 28px; 
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+.stats-img {
+  width: 45px;
+  border-radius: 50%;
+}
+
+.stats-employee {
+  padding: 20px;
+  align-items: center;
+  font-family: 'Assistant', sans-serif;
+}
+
+.stats-hours{
+  font-size: 14px;
+  color: #72848b;
+}
